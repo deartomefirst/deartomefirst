@@ -7,8 +7,10 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=deartomefirst)](https://solved.ac/deartomefirst)
 
 ### stack
-- js
-- react
+![Static Badge](https://img.shields.io/badge/js-%23F7DF1E)
+![Static Badge](https://img.shields.io/badge/react-%2361DAFB)
+
+
 <!--
 **deartomefirst/deartomefirst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
